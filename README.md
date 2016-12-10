@@ -13,6 +13,7 @@
 - `/auctions` 列出当前正在进行竞拍的竞拍室
 - `/enter auctionName` 可以观看某一竞拍室的竞拍情况，可以/list，/kickout bidderID命令。直到使用leave命令离开该竞拍室
 - `/close auctionName` 关闭某一竞拍室
+
 ##### 2.2 客户端
 - `/login bidderName` 用bidderName登录服务器
 - `/auctions` 列出当前正在进行拍卖的拍卖室
